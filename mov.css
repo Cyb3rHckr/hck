@@ -1,0 +1,13 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#video {
+  width: 80%;
+  height: auto;
+  border: 1px solid #ccc;
+  background: #000;
+}
